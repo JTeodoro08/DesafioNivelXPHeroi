@@ -1,1 +1,1 @@
-khkhkhgit;
+console.log("Olá");
